@@ -15,7 +15,7 @@ Most of the features available in the [Mega public C++ SDK](https://mega.co.nz/s
 **None**. I'm not working on this project anymore, if you want to add features and make it more stable feel free to fork and submit pull requests.
 
 ###Usage
-Clone this repository, clone [cryptopp](https://github.com/tagyro/CryptoPP-for-iOS), download [Mega C++ SDK](https://mega.co.nz/sdk.zip), compile and pray it runs.  
+Clone this repository, clone [cryptopp](https://github.com/tagyro/CryptoPP-for-iOS), download [Mega C++ SDK](https://mega.co.nz/sdk.zip), compile and pray that it runs.  
 
 ###Documentation of Code
 
