@@ -22,7 +22,7 @@ Clone this repository, clone [cryptopp](https://github.com/tagyro/CryptoPP-for-i
 There are some comments in the code but nothing more.
 
 ###Contact
-Send me a [tweet](http://twitter.com/andreistoleru) if you have any questions of suggestions, I'd love to hear how you get on with this!
+Send me a [tweet](http://twitter.com/andreistoleru) if you have any questions or suggestions, I'd love to hear how you get on with this!
 
 ###License
 This code is licensed under the terms of the Apache license. See [LICENSE](https://github.com/tagyro/mega-objc/blob/master/LICENSE) for more information
